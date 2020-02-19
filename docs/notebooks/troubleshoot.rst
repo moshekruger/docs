@@ -21,7 +21,7 @@ then enable extension for your Jupyter:
 
    jupyter nbextension enable --py neptune-notebooks
 
-Don't forget to install Neptune client: 
+Don't forget to install Neptune client:
 
 .. code-block:: bash
 

@@ -4,7 +4,7 @@ Notebooks in Neptune
 .. image:: ../_static/images/others/notebooks_neptuneml.png
    :target: ../_static/images/others/notebooks_neptuneml.png
    :alt: Jupyter notebooks neptune.ai integration
-   
+
 Introduction
 ------------
 Notebooks are essential tool for data scientists, regardless their area of specialization. They allow data scientists to work interactively, keeping code and results - like visualizations - in a single document. Neptune builds on top of this experience and comes with Jupyter and JupyterLab extensions that let you track Notebooks in Neptune.
